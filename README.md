@@ -1,5 +1,5 @@
 # Pingstat_App
-Pingstat is a desktop app (Windows) to monitor latency to 2 target host, customizable host address with custom name too.
+Pingstat is a desktop app to monitor latency to 2 target host, customizable host address with custom name too. (Only tested on Windows Platform)
 
 # Usage :
 - Press F11 for more information
