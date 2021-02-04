@@ -8,4 +8,4 @@ Pingstat is a desktop app (Windows) to monitor latency to 2 target host, customi
 - Set application position in setting.json (xpos, ypos)
 - Disable right click pop-up by setting "rightlLick" to false in setting.json
 
-Created By - Faiz Noerdiyan Cesara @ 2021m for more information, you can contact me at faiznc@gmail.com.
+Created By - Faiz Noerdiyan Cesara @ 2021, for more information, you can contact me at faiznc@gmail.com.
